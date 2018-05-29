@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/a63ed2cf-4800-4f0c-b453-ac4d24b095e8">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/e1cde965-ccb7-4c8d-9171-c30e9b4aa356"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/person/fd1b678b-564d-4301-8306-c21298bad3bb"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/301cbaee-de77-462b-bf89-baeece1fa505"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-05-29T03:56:11.586Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-05-29T03:56:11.586Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/163149106340568492744/","uri":"http://viaf.org/viaf/163149106340568492744/","uriForDisplay":"https://viaf.org/viaf/163149106340568492744/","name":"Keats, John","repository":"VIAF","originalQueryString":"JOHN KEATS"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/163149106340568492744/","cert":"definite","type":"real"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/person/fd1b678b-564d-4301-8306-c21298bad3bb">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/e1cde965-ccb7-4c8d-9171-c30e9b4aa356">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/e938fe33-396b-454a-ac1f-a021fca78d8c"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/44745d0a-bb4a-4087-aed9-50082c4073de"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/44745d0a-bb4a-4087-aed9-50082c4073de">
+	<rdf:value>xpointer(//persName[@annotationId="ent_203"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/d778605c-7c8d-4dba-9fe0-eeb183137f7c">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/cfcabaec-2bfa-4cd8-a411-b1e67831db28"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/title/753a3de8-4787-4a80-8938-af213dd41d0d"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/0469b3e9-fcb8-4d4a-ab0c-9490e2cd7148"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-05-29T03:56:11.587Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-05-29T03:56:11.587Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q2075298","uriForDisplay":"https://www.wikidata.org/entity/Q2075298","uri":"http://www.wikidata.org/entity/Q2075298","name":"To Autumn","repository":"wikidata","originalQueryString":"To Autumn"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"level":"a","ref":"http://www.wikidata.org/entity/Q2075298","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/title/753a3de8-4787-4a80-8938-af213dd41d0d"><cw:pubType xmlns:cw="http://cwrc.ca/ns/cw#">a</cw:pubType>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/title"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/cfcabaec-2bfa-4cd8-a411-b1e67831db28">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/189828f4-dc43-43bf-8aa0-85e5c55bd73c"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/55c5bbc8-e49f-4ea2-bce7-8c5d30e626de"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/55c5bbc8-e49f-4ea2-bce7-8c5d30e626de">
+	<rdf:value>xpointer(//title[@annotationId="ent_204"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+</rdf:RDF>
+
+
+	
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sample Document Title</title>
+				<editor sameAs="www.cwrc.ca/person/someID">Editor name</editor>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created by members of CWRC/CSÉC unless otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+	<encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-05-29T03:53:10.666Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+	<text>
+		<body><pb facs="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/John_Keats_-_To_Autumn_Manuscript_1_unrestored.jpg/472px-John_Keats_-_To_Autumn_Manuscript_1_unrestored.jpg" n="1">
+			
+			
+		</pb><div type="poem">
+            <head><title annotationId="ent_204" level="a" ref="http://www.wikidata.org/entity/Q2075298" cert="definite">To Autumn</title></head>
+            <byline>By <persName annotationId="ent_203" ref="http://viaf.org/viaf/163149106340568492744/" cert="definite" type="real">JOHN KEATS</persName></byline>
+            <lg>
+               <l>Season of mists and mellow fruitfulness,</l>
+               <l>Close bosom-friend of the maturing sun;</l>
+               <l>Conspiring with him how to load and bless</l>
+               <l>With fruit the vines that round the thatch-eves run;</l>
+               <l>To bend with apples the moss'd cottage-trees,</l>
+               <l>And fill all fruit with ripeness to the core;</l>
+               <l>To swell the gourd, and plump the hazel shells</l>
+               <l>With a sweet kernel; to set budding more,</l>
+               <l>And still more, later flowers for the bees,</l>
+               <l>Until they think warm days will never cease,</l>
+               <l>For summer has o'er-brimm'd their clammy cells.</l>
+            </lg>
+            <lg>
+               <l>Who hath not seen thee oft amid thy store?</l>
+               <l>Sometimes whoever seeks abroad may find</l>
+               <l>Thee sitting careless on a granary floor,</l>
+               <l>Thy hair soft-lifted by the winnowing wind;</l>
+               <l>Or on a half-reap'd furrow sound asleep,</l>
+               <l>Drows'd with the fume of poppies, while thy hook</l>
+               <l>Spares the next swath and all its twined flowers:</l>
+               <l>And sometimes like a gleaner thou dost keep</l>
+               <l>Steady thy laden head across a brook;</l>
+               <l>Or by a cyder-press, with patient look,</l>
+               <l>Thou watchest the last oozings hours by hours.</l>
+            </lg>
+            <lg>
+               <l>Where are the songs of spring? Ay, Where are they?</l>
+               <l>Think not of them, thou hast thy music too,—</l>
+               <l>While barred clouds bloom the soft-dying day,</l>
+               <l>And touch the stubble-plains with rosy hue;</l>
+               <l>Then in a wailful choir the small gnats mourn</l>
+               <l>Among the river sallows, borne aloft</l>
+               <l>Or sinking as the light wind lives or dies;</l>
+               <l>And full-grown lambs loud bleat from hilly bourn;</l>
+               <l>Hedge-crickets sing; and now with treble soft</l>
+               <l>The red-breast whistles from a garden-croft;</l>
+               <l>And gathering swallows twitter in the skies.</l>
+            </lg>
+         </div></body>
+	</text>
+</TEI>
