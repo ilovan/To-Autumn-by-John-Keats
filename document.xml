@@ -43,10 +43,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/byline/persName_20190707003040",
+	"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/byline/persName_20190708095403",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-07T06:30:40.383Z",
-	"dcterms:issued": "2019-07-08T04:23:07.566Z",
+	"dcterms:created": "2019-07-08T15:54:03.170Z",
+	"dcterms:issued": "2019-07-08T15:57:38.582Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -58,7 +58,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/byline/persName_20190707003040#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/byline/persName_20190708095403#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml",
@@ -72,7 +72,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/byline/persName_20190707003040#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/byline/persName_20190708095403#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/byline/persName"
 		}
@@ -117,10 +117,10 @@
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/head/title_20190707003040",
+	"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/head/title_20190708095403",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-07-07T06:30:40.385Z",
-	"dcterms:issued": "2019-07-08T04:23:07.572Z",
+	"dcterms:created": "2019-07-08T15:54:03.174Z",
+	"dcterms:issued": "2019-07-08T15:57:38.586Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -132,7 +132,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/head/title_20190707003040#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/head/title_20190708095403#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml",
@@ -146,7 +146,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/head/title_20190707003040#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/To-Autumn-by-John-Keats/master/document.xml?TEI/text/body/div/head/title_20190708095403#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title"
 		}
@@ -167,7 +167,7 @@
 }
 ]]></rdf:Description></rdf:RDF></xenoData><encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-05-29T03:53:10.666Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
 	<text>
-		<body><pb facs="https://resources.ediblearrangements.ca/Resources/en-us/i/a/12c_lemonbox.jpg" n="1">
+		<body><pb facs="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/John_Keats_-_To_Autumn_Manuscript_1_unrestored.jpg/472px-John_Keats_-_To_Autumn_Manuscript_1_unrestored.jpg" n="1">
 			
 			
 		</pb><div type="poem">
@@ -198,7 +198,7 @@
                <l>Steady thy laden head across a brook;</l>
                <l>Or by a cyder-press, with patient look,</l>
                <l>Thou watchest the last oozings hours by hours.</l>
-            </lg><pb facs="https://resources.ediblearrangements.ca/Resources/en-us/i/a/o_lemonberrybouquet.jpg" n="2"></pb>
+            </lg>
             <lg>
                <l>Where are the songs of spring? Ay, Where are they?</l>
                <l>Think not of them, thou hast thy music too,—</l>
